@@ -1,0 +1,8 @@
+show tables;
+
+select * from List_tournament;
+select * from Tournament_matches;
+select * from Match_detail;
+select * from Pets_list;
+select * from Booklet;
+
